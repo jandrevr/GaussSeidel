@@ -1,2 +1,2 @@
 # GaussSeidel
- Gauss Seidel en Python
+ Gauss Seidel SOR en Python
