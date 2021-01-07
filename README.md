@@ -1,5 +1,5 @@
 # Gauss Seidel (SOR)
- Agregando archivo método Gauss Seidel con Relajación (SOR)
+ Método Gauss Seidel con Relajación (SOR) en Python
  
  
  
